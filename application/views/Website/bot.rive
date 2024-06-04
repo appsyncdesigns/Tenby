@@ -1,0 +1,8 @@
+// conversation script is below
+// "start" auto-runs to begin the bot conversation 
+
++ start 
+- Hello. I am a brand new bot with little to say.
+
++ *
+- Sorry, I don't understand that.
